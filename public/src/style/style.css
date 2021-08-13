@@ -1,0 +1,12 @@
+* {
+	--bg-incoming: #10CB2C;
+	--bg-outcoming: #CD1024;
+}
+
+.bg-incoming {
+	background: var(--bg-incoming);
+}
+
+.bg-outcoming {
+	background: var(--bg-outcoming);
+}
