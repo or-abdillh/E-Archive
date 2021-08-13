@@ -1,0 +1,25 @@
+{
+  "name": "e-archive",
+  "version": "1.0.0",
+  "description": "Sistem pengarsipan surat menyurat HIMA TI Polihasnur 2020/21",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/or-abdillh/E-Archive.git"
+  },
+  "keywords": [
+    "sistem-admin",
+    "surat",
+    "organisasi",
+    "inventory"
+  ],
+  "author": "Oka R. Abdillah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/or-abdillh/E-Archive/issues"
+  },
+  "homepage": "https://github.com/or-abdillh/E-Archive#readme"
+}
