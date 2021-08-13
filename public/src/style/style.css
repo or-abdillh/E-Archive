@@ -10,3 +10,7 @@
 .bg-outcoming {
 	background: var(--bg-outcoming);
 }
+
+.spacing-md {
+	letter-spacing: 2px;
+}
